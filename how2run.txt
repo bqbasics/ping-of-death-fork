@@ -1,0 +1,4 @@
+change "targets ip here" to the targets ip
+change "your time here" to the durstion you want the attack to last 
+DONT change the file name as it will mess up the fork bomb 
+DONT open the file on your own computer as it will use TONS of ram
